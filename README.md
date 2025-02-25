@@ -16,6 +16,22 @@ Here are some ideas to get you started:
 -->
 
 
+I'm Camoy Phillips, a student passionate about transportation.  I'm currently focused on learning more about Web Development.
+
+I'm always eager to collaborate with other students on transportation projects.  I'm particularly interested in sustainable transportation initiatives.  If you're working on something related to JavaScript, public transit, electric vehicles, feel free to reach out!
+
+**Here are some ways to connect with me:**
+
+*   **LinkedIn:** [https://www.linkedin.com/in/camoy-phillips-520bb6a6/]
+*   **GitHub:** [https://github.com/camoyphillips]
+*   **Stackoverflow:** [https://stackoverflow.com/users/29377233/camoy-phillips]
+*   **Email:** [camoyphillips@gmail.com]
+
+**Things I can help with:**
+
+*   [Specific Skills/Knowledge - Front-end development, transportation planning
+*   [Mentoring or code reviews]
+*   [Brainstorming ideas]
 
 
 

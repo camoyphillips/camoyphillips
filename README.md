@@ -1,4 +1,5 @@
 ## Hi there 👋
+![Hi there 👋](your_image_url.png)
 
 <!--
 **camoyphillips/camoyphillips** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
